@@ -1,4 +1,4 @@
-stapled
+Stapled
 =======
 
 Assignment Management System
