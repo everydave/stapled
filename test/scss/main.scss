@@ -1,18 +1,18 @@
 @import "bootstrap/bootstrap";
 
-body {
-	background: $gray;
-}
-
 h1 {
 	color: red;
 	@include font-family-serif;
 }
 
-a {
-	color: $linkColor;
-	
-	&:hover {
-		color: $linkColorHover;
-	}
+.blue {
+	color: $blue;
+}
+
+.green { 
+	color: $green;
+}
+
+.purple {
+	color: $purple;
 }

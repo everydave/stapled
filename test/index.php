@@ -5,17 +5,9 @@
 </head>
 
 <body>
-	<h1>Hey!</h1>
-	<h2>testing</h2>
-	<h3>:)</h3>
-	<a href="http://www.example.org">Text</a>
-
-	<form>
-		<label for="hi">Testing:</label><input type="text" id="hi">
-		<input type="text">
-		<input type="text">
-		<button class="btn btn-small btn-primary">Submit</button>
-	</form>
+	<p class="blue">Testing text to see color</p>
+	<p class="green">Testing text to see color</p>
+	<p class="purple">Testing text to see color</p>
 </body>
 
 </html>
