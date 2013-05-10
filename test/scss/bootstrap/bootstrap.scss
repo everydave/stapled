@@ -15,18 +15,8 @@
 // CSS Reset
 @import "reset";
 
-// Grid system and page structure
-@import "scaffolding";
-@import "grid";
-@import "layouts";
-
 // Base CSS
 @import "type";
-@import "code";
-@import "forms";
-@import "tables";
-@import "buttons";
-@import "button-groups";
 
 // Utility classes
 @import "utilities"; // Has to be last to override when necessary
